@@ -6,3 +6,4 @@ resource "aws_instance" "remote" {
   tags = {
     Name = "remoteState"
   }
+}
